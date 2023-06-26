@@ -1,0 +1,12 @@
+C:\Users\kurti\source\repos\FluxusBypassNewest\FluxusBypassNewest\obj\Debug\FluxusBypassNewest.csproj.AssemblyReference.cache
+C:\Users\kurti\source\repos\FluxusBypassNewest\FluxusBypassNewest\obj\Debug\FluxusBypassNewest.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurti\source\repos\FluxusBypassNewest\FluxusBypassNewest\obj\Debug\FluxusBypassNewest.csproj.CoreCompileInputs.cache
+C:\Users\kurti\source\repos\FluxusBypassNewest\FluxusBypassNewest\bin\Debug\FluxusBypassNewest.exe.config
+C:\Users\kurti\source\repos\FluxusBypassNewest\FluxusBypassNewest\bin\Debug\FluxusBypassNewest.exe
+C:\Users\kurti\source\repos\FluxusBypassNewest\FluxusBypassNewest\bin\Debug\FluxusBypassNewest.pdb
+C:\Users\kurti\source\repos\FluxusBypassNewest\FluxusBypassNewest\bin\Debug\HtmlAgilityPack.dll
+C:\Users\kurti\source\repos\FluxusBypassNewest\FluxusBypassNewest\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\kurti\source\repos\FluxusBypassNewest\FluxusBypassNewest\bin\Debug\HtmlAgilityPack.xml
+C:\Users\kurti\source\repos\FluxusBypassNewest\FluxusBypassNewest\obj\Debug\FluxusBypassNewest.csproj.CopyComplete
+C:\Users\kurti\source\repos\FluxusBypassNewest\FluxusBypassNewest\obj\Debug\FluxusBypassNewest.exe
+C:\Users\kurti\source\repos\FluxusBypassNewest\FluxusBypassNewest\obj\Debug\FluxusBypassNewest.pdb
