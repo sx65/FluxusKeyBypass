@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Net.Http;
-using System.Web;
 using System.Windows.Forms;
 using HtmlAgilityPack;
 
@@ -22,15 +21,14 @@ public class Program
     [STAThread]
     public static void Main()
     {
-        hamhamnigger();
+        GetKey();
     }
 
-    public static void hamhamnigger()
+    public static void GetKey()
     {
         Console.Title = "Omg goofy ShowerHeadL";
         Console.Write("Enter the HWID: ");
         var hwid = Console.ReadLine();
-
 
         var urls = new List<string>
         {
@@ -53,42 +51,37 @@ public class Program
             catch (Exception e)
             {
                 Console.WriteLine($"Error requesting URL: {url}");
+                Console.WriteLine(e.Message);
             }
-        }
-
-        foreach (var response in responses)
-        {
-            Console.WriteLine("Bypassed");
         }
 
         var lastResponse = responses[responses.Count - 1];
         var document = new HtmlAgilityPack.HtmlDocument();
         document.LoadHtml(lastResponse.Content);
-        var key = "";
-        var keyNode = document.DocumentNode.SelectSingleNode("//main/code[2]");
-        if (keyNode != null)
-        {
-            key = keyNode.InnerText;
-        }
-        else
-        {
-            key = "Error!";
-        }
+
+ 
+ 
+
+        var keyNode = document.DocumentNode.SelectSingleNode("//code/text()");
+        var key = keyNode?.InnerText.Trim() ?? "Error!"; 
+
+
 
         Console.WriteLine($"Your key is: {key}");
 
+
+
         Clipboard.SetText(key);
         Console.WriteLine("Key copied to clipboard.");
-
-        System.Environment.Exit(0);
+        Console.ReadKey();
     }
 
     private static Response Request(HttpClient client, string url)
     {
         var headers = new Dictionary<string, string>
         {
-            { "User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" },
-            { "Referer", "https://linkvertise.com/" }
+            { "User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" }, 
+            { "Referer", "https://linkvertise.com/" } 
         };
 
         var request = new HttpRequestMessage(HttpMethod.Get, url);

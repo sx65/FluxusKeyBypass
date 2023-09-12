@@ -10,3 +10,15 @@ C:\Users\kurti\source\repos\FluxusBypassNewest\FluxusBypassNewest\bin\Debug\Html
 C:\Users\kurti\source\repos\FluxusBypassNewest\FluxusBypassNewest\obj\Debug\FluxusBypassNewest.csproj.CopyComplete
 C:\Users\kurti\source\repos\FluxusBypassNewest\FluxusBypassNewest\obj\Debug\FluxusBypassNewest.exe
 C:\Users\kurti\source\repos\FluxusBypassNewest\FluxusBypassNewest\obj\Debug\FluxusBypassNewest.pdb
+C:\Users\kurti\OneDrive\Masaüstü\FluxusKeyBypass-main\FluxusBypassNewest\bin\Debug\FluxusBypassNewest.exe.config
+C:\Users\kurti\OneDrive\Masaüstü\FluxusKeyBypass-main\FluxusBypassNewest\bin\Debug\FluxusBypassNewest.exe
+C:\Users\kurti\OneDrive\Masaüstü\FluxusKeyBypass-main\FluxusBypassNewest\bin\Debug\FluxusBypassNewest.pdb
+C:\Users\kurti\OneDrive\Masaüstü\FluxusKeyBypass-main\FluxusBypassNewest\bin\Debug\HtmlAgilityPack.dll
+C:\Users\kurti\OneDrive\Masaüstü\FluxusKeyBypass-main\FluxusBypassNewest\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\kurti\OneDrive\Masaüstü\FluxusKeyBypass-main\FluxusBypassNewest\bin\Debug\HtmlAgilityPack.xml
+C:\Users\kurti\OneDrive\Masaüstü\FluxusKeyBypass-main\FluxusBypassNewest\obj\Debug\FluxusBypassNewest.csproj.AssemblyReference.cache
+C:\Users\kurti\OneDrive\Masaüstü\FluxusKeyBypass-main\FluxusBypassNewest\obj\Debug\FluxusBypassNewest.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurti\OneDrive\Masaüstü\FluxusKeyBypass-main\FluxusBypassNewest\obj\Debug\FluxusBypassNewest.csproj.CoreCompileInputs.cache
+C:\Users\kurti\OneDrive\Masaüstü\FluxusKeyBypass-main\FluxusBypassNewest\obj\Debug\FluxusBypassNewest.csproj.CopyComplete
+C:\Users\kurti\OneDrive\Masaüstü\FluxusKeyBypass-main\FluxusBypassNewest\obj\Debug\FluxusBypassNewest.exe
+C:\Users\kurti\OneDrive\Masaüstü\FluxusKeyBypass-main\FluxusBypassNewest\obj\Debug\FluxusBypassNewest.pdb
